@@ -6,7 +6,7 @@ A Chip 8 Emulator written in Odin Language.
 ### Libraries / Depencencies
 * GLFW for managing window and input
 * OpenGL for drawing
-* Soloud for audio playback
+* SoLoud for audio playback
 * Create "sound.wav" for sound effect
 
 ### Keyboard layout
