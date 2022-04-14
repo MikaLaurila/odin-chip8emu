@@ -3,10 +3,11 @@ A Chip 8 Emulator written in Odin Language.
 
 <img width="412" alt="chip8emu-img" src="https://user-images.githubusercontent.com/74135084/163355641-fbafae97-85bf-4b4c-872a-7079e3b7e856.png">
 
-### Libraries
+### Libraries / Depencencies
 * GLFW for managing window and input
 * OpenGL for drawing
 * Soloud for audio playback
+* Create "sound.wav" for sound effect
 
 ### Keyboard layout
 ```
@@ -16,7 +17,7 @@ A Chip 8 Emulator written in Odin Language.
 |A|0|B|F|  =>  |Z|X|C|V|
 ```
 
-### Usage
+### 
 ```
 > "Chip 8 Emulator.exe" roms/INVADERS
 ```
