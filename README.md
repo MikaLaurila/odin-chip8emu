@@ -17,7 +17,7 @@ A Chip 8 Emulator written in Odin Language.
 |A|0|B|F|  =>  |Z|X|C|V|
 ```
 
-### 
+### Usage
 ```
 > "Chip 8 Emulator.exe" roms/INVADERS
 ```
